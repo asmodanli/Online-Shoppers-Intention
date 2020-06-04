@@ -1,4 +1,4 @@
-# Online-Shoppers-Intention
+# Online Shoppers Intention
 Kodluyoruz Applied Data Science Bootcamp Project
 02.2020 - 04-2020
 
